@@ -1,5 +1,3 @@
-# GNN-AA
-
 # Instructions for reproducing the experiments 
 
 ## Environmental Requirement
